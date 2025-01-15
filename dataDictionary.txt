@@ -1,0 +1,3 @@
+MyTable/column1 INT false true false/column2 VARCHAR(255) false true false
+stu/sid CHAR(6) true false true/sname VARCHAR(20) false true false/age INT false true false/gender VARCHAR(10) false true false
+这是一个新创建的数据库。

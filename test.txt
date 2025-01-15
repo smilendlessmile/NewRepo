@@ -1,0 +1,10 @@
+/*
+CREATE TABLE stu (sid CHAR(6),sname VARCHAR(20),age INT,gender VARCHAR(10),PRIMARY KEY(sid));
+INSERT INTO stu VALUES ('s_1002','liSi',32,'male');
+INSERT INTO stu (sid,sname,age,gender,classname) VALUES ('s_2003','JOE',23,'female','4');
+DELETE FROM stu WHERE age=23 ;
+DELETE FROM stu WHERE sid='s_2003' ;
+UPDATE stu SET age=18;
+SELECT * FROM stu;
+DROP TABLE stu;
+*/
